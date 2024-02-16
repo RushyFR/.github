@@ -1,12 +1,4 @@
 ## »—— RUSHY ——«
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Rushy est un serveur minecraft mini-jeux sur le thème ???. Il sera disponible très prochainement sous l'adresse Rushy.fr
+<img src="https://cdn.discordapp.com/attachments/1207034742722138113/1207883812759932988/image.png?ex=65e14476&is=65cecf76&hm=6d15dff3c121f854de8feeb884c56e32c833d3d2fb5597e6bfb014d207f55f54&">
