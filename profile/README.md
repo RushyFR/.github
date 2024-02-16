@@ -28,3 +28,5 @@
 
 ## »—— Nous rejoindre ——«
 - Rien de plus facile ! Rendez vous sur [.gg/rushy](https://discord.rushy.fr/).
+
+(PS: Je suis maltraité dans l'équipe venez m'aider - BrainFFA)
