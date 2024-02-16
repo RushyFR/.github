@@ -27,4 +27,4 @@
 - Voici le lien de téléchargement : [ICI!](https://files.rushy.fr/download/API-Public)
 
 ## »—— Nous rejoindre ——«
-- Rien de plus facile ! Rendez vous sur [.gg/rushy](https://discord.gg/kEYzQmyvhF).
+- Rien de plus facile ! Rendez vous sur [.gg/rushy](https://discord.rushy.fr/).
