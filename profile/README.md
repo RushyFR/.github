@@ -14,4 +14,8 @@
 - Jeux FFA : ??
 - Jeux No-FFA : ??
 
-## »—— ??? ——«
+## »—— Nos plugins ——«
+- RushyAPI : L'api du serveur qui gérent les serveurs, mode de jeux, grades, coins, ect.
+- RushyHub : Le plugin de HUB permetant de accueilir des joueurs sur l'infrastructure.
+- RushyGameAPI : RushyGameAPI est notre API qui permet de faire nos jeux en tout facilité.
+- RushyNetwork : Permet d'utiliser l'API sans aucun soucis pour les proxys / spigots.
