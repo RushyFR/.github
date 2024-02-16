@@ -24,4 +24,7 @@
 
 ## »—— Notre API publique ——«
 - Une API sera publique afin que vous puissiez faire des bots discord pour voir vos stats, kills dans un certains mode de jeux, ect.
-- Voici le lien de téléchargement : [ICI!](https://files.rushy.fr/download/API-Public-V1)
+- Voici le lien de téléchargement : [ICI!](https://files.rushy.fr/download/API-Public)
+
+## »—— Nous rejoindre ——«
+- Rien de plus facile ! Rendez vous sur [.gg/rushy](https://discord.gg/kEYzQmyvhF).
