@@ -1,2 +1,4 @@
 ## 📌 ┃ RUSHY.FR
-- Bienvenue sur le GitHub de Rushy.
+- IP : mc.rushy.fr
+- Version : 1.8+
+- Status : <span>FERMÉ TEMPORAIREMENT</span>
