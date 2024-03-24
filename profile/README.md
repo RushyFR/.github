@@ -1,13 +1,13 @@
 <link rel="stylesheet" type="text/css" href="https://github.com/RushyFR/.github/blob/main/profile/styles.css">
 ## »—— RUSHY ——«
 
-- Rushy est un serveur minecraft mini-jeux. Il sera disponible très prochainement sous l'adresse Rushy fr
+- Rushy est un serveur minecraft mini-jeux. Il sera disponible très prochainement sous l'adresse Rushy.fr
 - Version : 1.8+
 - Launcher recommandé : LunarClient, Badlion, LabyMod, AZLauncher
 
 ## »—— Développeurs / Contributeurs ——«
 Admininistrateurs :<br>
-<img src="https://cravatar.eu/helmhead/Dephyle/200.png" width="32" height="32" alt="[Admin] Dephyle"> <span class="text-rose-500">ee.</span></p>
+<img src="https://cravatar.eu/helmhead/Dephyle/200.png" width="32" height="32" alt="[Admin] Dephyle"> <span class="text-rose-500">ADMIN</span> Dephyle</p>
 
 
 Développeur(s) : ZeyKoYT, rd
