@@ -1,4 +1,30 @@
-## <img src="https://cdn.discordapp.com/attachments/1206352496789033082/1219990916576579584/Rushy.png?ex=660d5014&is=65fadb14&hm=1df6bea3667a068fc5be2b3e58a6ed8e10164386bfa84d5daf0f0773eebb1285&">USHY
-- IP : mc.rushy.fr
+## »—— RUSHY ——«
+
+- Rushy est un serveur minecraft mini-jeux. Il sera disponible très prochainement sous l'adresse Rushy fr
 - Version : 1.8+
-- Status : <span>FERMÉ TEMPORAIREMENT</span>
+- Launcher recommandé : LunarClient, Badlion, LabyMod, AZLauncher
+
+## »—— Développeurs / Contributeurs ——«
+Admininistrateurs :
+- <img src="https://cravatar.eu/helmhead/Dephyle/200.png"> <p style="color: red;">Admin</p> Dephyle
+
+Développeur(s) : ZeyKoYT, rd
+
+- Builder(s) : ???
+- Streamer(s) / Youtuber(s) : BYSLIDE, Multicort, Hikawii, et plus !
+
+## »—— Mode de jeux ——«
+- Jeux FFA : ??
+- Jeux No-FFA : ??
+
+## »—— Nos plugins ——«
+- RushyAPI : L'api du serveur qui gèrent les serveurs, mode de jeux, grades, coins, etc.
+- RushyHub : Le plugiciel de HUB permettant d'accueillir des joueurs sur l'infrastructure.
+- RushyGameAPI : RushyGameAPI est notre API qui permet de faire nos jeux en tout facilité.
+
+## »—— Notre API publique ——«
+- Une API sera publique afin que vous puissiez faire des bots discord pour voir vos stats, kills dans un certains mode de jeux, ect.
+- Voici le lien de téléchargement : [ICI!](https://files.rushy.fr/download/API-Public)
+
+## »—— Nous rejoindre ——«
+- Rien de plus facile ! Rendez vous sur [.gg/rushy](https://discord.rushy.fr/).
