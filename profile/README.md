@@ -7,10 +7,10 @@
 
 ## »—— Développeurs / Contributeurs ——«
 Admininistrateurs :<br>
-- Dephyle
-- ZeyKoYT
-- rd
-- Sonaah_
+Dephyle
+ZeyKoYT
+rd
+Sonaah_
 
 - Builder(s) : ???
 - Streamer(s) / Youtuber(s) : BYSLIDE, Multicort, Hikawii, et plus !
