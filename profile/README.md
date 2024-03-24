@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 ## »—— RUSHY ——«
 
 - Rushy est un serveur minecraft mini-jeux. Il sera disponible très prochainement sous l'adresse Rushy fr
