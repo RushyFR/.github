@@ -7,9 +7,9 @@
 
 ## »—— Développeurs / Contributeurs ——«
 Admininistrateurs :<br>
-Dephyle
-ZeyKoYT
-rd
+Dephyle<br>
+ZeyKoYT<br>
+rd<br>
 Sonaah_
 
 - Builder(s) : ???
