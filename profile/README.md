@@ -7,7 +7,7 @@
 
 ## »—— Développeurs / Contributeurs ——«
 Admininistrateurs :<br>
-<img src="https://cravatar.eu/helmhead/Dephyle/200.png" width="32" height="32" alt="[Admin] Dephyle"> <span class="text-red">ee.</span></p>
+<img src="https://cravatar.eu/helmhead/Dephyle/200.png" width="32" height="32" alt="[Admin] Dephyle"> <span class="text-rose-500">ee.</span></p>
 
 
 Développeur(s) : ZeyKoYT, rd
