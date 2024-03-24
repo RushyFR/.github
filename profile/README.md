@@ -6,7 +6,8 @@
 
 ## »—— Développeurs / Contributeurs ——«
 Admininistrateurs :
-<img src="https://cravatar.eu/helmhead/Dephyle/200.png" width="32" height="32" alt="[Admin] Dephyle"> <p style="color: red;">Ceci est un texte en rouge.</p>
+<img src="https://cravatar.eu/helmhead/Dephyle/200.png" width="32" height="32" alt="[Admin] Dephyle"> <font color="red">Ceci est un texte en rouge.</font>
+
 
 Développeur(s) : ZeyKoYT, rd
 
