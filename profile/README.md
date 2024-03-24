@@ -5,7 +5,7 @@
 - Launcher recommandé : LunarClient, Badlion, LabyMod, AZLauncher
 
 ## »—— Développeurs / Contributeurs ——«
-Admininistrateurs :
+Admininistrateurs :<br>
 <img src="https://cravatar.eu/helmhead/Dephyle/200.png" width="32" height="32" alt="[Admin] Dephyle"> <span style="color: red;">ee.</span>
 
 
